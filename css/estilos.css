@@ -3,3 +3,10 @@
     padding: 0;
 }
 
+.main{
+    background-color: beige;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: black,1,0;
+    padding: 1em;
+}
